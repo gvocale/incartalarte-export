@@ -28,3 +28,8 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('db.host', 'localhost');
+c::set('db.user', 'root');
+c::set('db.password', 'root');
+c::set('db.name', 'test');
