@@ -33,3 +33,4 @@ c::set('db.host', 'localhost');
 c::set('db.user', 'root');
 c::set('db.password', 'root');
 c::set('db.name', 'liquorvitae');
+c::set('debug', true);

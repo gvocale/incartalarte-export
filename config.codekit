@@ -5673,6 +5673,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/site\/templates\/category.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/category.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/site\/templates\/default.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5735,8 +5744,8 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "starterkit",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "looptest",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_yellow"
 	},
 "projectSettings": {
@@ -5894,7 +5903,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:8888\/starterkit",
+	"externalServerAddress": "http:\/\/localhost:8888\/looptest",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,

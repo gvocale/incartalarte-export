@@ -8,6 +8,26 @@
 <?php $wp_postmeta = db::select('wp_postmeta', '*'); ?>
 <?php $wp_posts = db::select('wp_posts', '*'); ?>
 
+<?php $wp_terms = db::select('wp_terms', '*'); ?>
+
+<h2>Liquorvitae WP TERMS</h2>
+<ul class="alfa_posts">
+  <?php print_r($wp_terms) ?>
+  
+  <?php foreach($key as $each): ?>
+
+    <?php if ($each->meta_key() == "_wp_attached_file"): ?>
+      <li style="margin-top: 1rem">
+        <?php print_r($each) ?>
+        <p><strong>post_id</strong> <?php echo $each->post_id() ?></p>
+        <p><strong>meta_key</strong> <?php echo $each->meta_key() ?></p>
+        <p><strong>meta_value</strong> <?php echo $each->meta_value() ?></p>
+      </li>
+    <?php endif ?>
+  
+  <?php endforeach ?>
+</ul>
+
 <h2>Liquorvitae Photos</h2>
 <ul class="alfa_posts">
   <?php foreach($wp_postmeta as $each): ?>
@@ -40,4 +60,19 @@
   <?php endforeach ?>
 </ul>
 
+<?php try {
+$newPage = $page->children()->create(get('ID'), 'project', array(
+  'ID'     => get('ID'),
+  'post_name' => get('post_name'),
+  'guid'      => get('guid')
+));
+  echo 'The page has been created';
+} 
+
+catch(Exception $e) {
+
+  echo 'The user could not be created';
+  // optional error message: $e->getMessage();
+
+} ?>
 <?php snippet('footer') ?>
