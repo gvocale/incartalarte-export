@@ -1,0 +1,37 @@
+Object-id: 731
+
+----
+
+Post-name: contatti
+
+----
+
+Guid: http://lnx.fluxus.it/liquorvitae/?page_id=731
+
+----
+
+Post-title: Contatti
+
+----
+
+Post-content: 
+
+Per maggiori informazioni e per visionare di persona le nostre opere non esitate a contattarci.
+
+<strong>Studio d'Arte Liquor Vitae</strong>
+via R. Recca, 20
+71016 San Severo (FG)
+Italy
+
+tel: (+39) 3386480544<strong>
+</strong>
+
+email: <a href="mailto:liquorvitae@gmail.com" target="_blank">liquorvitae@gmail.com</a>
+
+[bgmp-map]
+
+<a href="https://plus.google.com/104023667979319066672" rel="publisher">Google+</a>
+
+----
+
+Tag: Altro
