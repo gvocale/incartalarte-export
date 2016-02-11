@@ -2,11 +2,8 @@
 
 
 <?php $wp_term_relationships = db::select('wp_term_relationships', '*'); ?>
-
 <?php $wp_terms = db::select('wp_terms', '*'); ?>
-
 <?php $wp_posts = db::select('wp_posts', '*'); ?>
-
 
 <h2>Liquorvitae Posts</h2>
 <ul class="alfa_posts">
@@ -21,6 +18,20 @@
 				<p><strong>post_content</strong> <?php echo $post->post_content(); ?>	</p>
 				<?php $term_name = $wp_terms->filterBy('term_id', $each->term_taxonomy_id())->first(); ?>
 				<p><strong>term_name</strong> <?php echo $term_name->name(); ?></p>
+
+				<?php
+				$value = $post->post_content();
+				$pattern = '/http.*jpg/';
+				preg_match($pattern, $value, $matches);
+				?></p>
+				<p><strong>Match</strong>
+					<?php foreach ($matches as $match): ?>
+						<?php echo $match ?>
+					<?php endforeach ?>
+				</p>
+
+
+
 			</li>
 
 
@@ -42,6 +53,13 @@
   // optional error message: $e->getMessage();
 
 			} ?>
+			
+			<p><strong>Page Directory</strong>
+			<?php $directory = $page->children()->filterBy('guid',$post->guid())->first()->dirname() ?>
+
+			<?php echo $directory ?>
+
+			<?php rename($match, $directory) ?>
 
 		<?php endif ?>
 

@@ -19,6 +19,16 @@
 					<p><strong>guid</strong> <?php echo $each->guid() ?></p>
 					<p><strong>post_title</strong> <?php echo $each->post_title() ?></p>
 					<p><strong>post_content</strong> <?php echo $each->post_content() ?></p>
+
+					<p><strong>url match</strong>
+					<?php
+					$subject = $each->post_content();
+					$pattern = '/^http\..*jpg$/';
+					preg_match($pattern, $subject, $matches);
+					print_r($matches);
+					?></p>
+
+
 				</li>
 				<?php try {
 					$newPage = $page->children()->create($each->post_name(), 'project', array(
