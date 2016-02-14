@@ -34,3 +34,9 @@ c::set('db.user', 'root');
 c::set('db.password', 'root');
 c::set('db.name', 'liquorvitae');
 c::set('debug', true);
+
+// c::set('db.host', 'www.liquorvitae.it');
+// c::set('db.user', 'liquorvi_gvocale');
+// c::set('db.password', 'Cu4ZQJ]VSdNi');
+// c::set('db.name', 'liquorvi_liquorvitae');
+// c::set('debug', true);
