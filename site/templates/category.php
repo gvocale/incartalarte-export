@@ -21,22 +21,27 @@
 
 
 				<?php try {
+
+					// Remove <img> tag from post content
+					$img_tag = '/<img(.*)\/>/';
+					$img_tag_replacement = "";
+					preg_match_all($img_tag, $post->post_content(), $img_tag_matches);
+					$cleaned_post_content = str_replace($img_tag_matches[0], $img_tag_replacement, $post->post_content());
+
 					$newPage = page('collezione')->children()->create($post->post_name(), 'project', array(
 						'object_id'     => $each->object_id(),
 						'post_name' => $post->post_name(),
 						'guid'      => $post->guid(),
 						'post_title'      => $post->post_title(),
-						'post_content'      => $post->post_content(),
+						'post_content'      => $cleaned_post_content,
 						'tag'      => $term_name->name(),
 						));
 					echo "The page " . $post->post_title() . " has been created \n";
 					echo $newPage->root() . "\n";
 
-				// Save and rename all images linked in content
-
-					$post_content = $post->post_content();
+					// Save and rename all images linked in content
 					$img_url = '/http.*jpg/';
-					preg_match_all($img_url, $post_content, $img_url_matches);
+					preg_match_all($img_url, $post->post_content, $img_url_matches);
 					$n = 0;
 					foreach ($img_url_matches[0] as $img_url_match) {
 						echo $img_url_match . " is being saved \n";
@@ -51,31 +56,9 @@
   				// optional error message: $e->getMessage();
 				};
 
-									// Search and remove IMG tags into content with nothing
-					echo "<br> each->object_id " . $each->object_id();
-					$newPage = page('collezione')->children()->filterBy('object_id',$each->object_id());
-					echo "<br>Filtered pages " . $newPage->count();
-					echo "<br>newPage guid ";
-					echo $newPage->guid();
-
-
-					$img_tag = '/<img.*\/>/';
-					$replacement = "";
-					preg_match_all($img_tag, $newPage->post_content(), $img_tag_matches);
-					foreach ($img_tag_matches[0] as $img_tag_match) {
-						echo "\n" . "Found " . "$img_tag_match" . "\n";
-						str_replace($img_tag_match, $replacement, $newPage->post_content());
-					}
-					str_replace($img_tag, "alfredino", $newPage->post_content(), $count);
-					preg_replace($img_tag, "alfredino", $newPage->post_content(), -1, $countpreg);
-					echo "str_replace count " . $count . "\n";
-					echo "preg_replace count " . $countpreg . "\n";
-					echo "New page post content " . $newPage->post_content();
-
 				?>
-
-			<?php endif ?>
-		</li>
+			</li>
+		<?php endif ?>
 	<?php endforeach ?>
 </ul>
 

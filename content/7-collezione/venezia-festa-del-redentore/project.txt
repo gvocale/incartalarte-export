@@ -16,8 +16,6 @@ Post-title: Venezia, Festa del Redentore
 
 Post-content: 
 
-<img class="alignnone size-full wp-image-5437" src="http://www.liquorvitae.it/wp-content/uploads/1_f-1.jpg" alt="1_f (1)" width="1600" height="1059" />
-
 <em><strong>Venezia: Processione alla Chiesa del Redentore.</strong></em>
 
 <em>Suggestivo grande dipinto, raffigurante una tipica processione veneziana sul ponte di barche, probabilmente durante la locale Festa del Redentore;</em>
