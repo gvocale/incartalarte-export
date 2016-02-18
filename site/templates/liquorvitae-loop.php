@@ -1,14 +1,14 @@
 <?php snippet('header') ?>
 
 
-<?php $wp_term_relationships = db::select('wp_term_relationships', '*'); ?>
-<?php $wp_terms = db::select('wp_terms', '*'); ?>
-<?php $wp_posts = db::select('wp_posts', '*'); ?>
+<?php $term_relationships = db::select('wp_term_relationships', '*'); ?>
+<?php $terms = db::select('wp_terms', '*'); ?>
+<?php $posts = db::select('wp_posts', '*'); ?>
 
-<h2>Liquorvitae Posts</h2>
+<h2>Liquorvitae Loop</h2>
 <ul class="alfa_posts">
-	<?php foreach($wp_term_relationships->limit(30) as $each): ?>
-		<?php if ($post = $wp_posts->filterBy('ID', $each->object_id())->first() AND $post->post_title() != ""): ?>
+	<?php foreach($term_relationships as $each): ?>
+		<?php if ($post = $posts->filterBy('ID', $each->object_id())->first() AND $post->post_title() != ""): ?>
 			<li style="margin-top: 1rem">
 				<p><strong>object_id</strong> <?php echo $each->object_id() ?></p>
 				<p><strong>term_taxonomy_id</strong> <?php echo $each->term_taxonomy_id() ?></p>
@@ -16,7 +16,7 @@
 				<p><strong>guid</strong> <?php echo $post->guid(); ?>	</p>
 				<p><strong>post_title</strong> <?php echo $post->post_title(); ?>	</p>
 				<p><strong>post_content</strong> <?php echo $post->post_content(); ?>	</p>
-				<?php $term_name = $wp_terms->filterBy('term_id', $each->term_taxonomy_id())->first(); ?>
+				<?php $term_name = $terms->filterBy('term_id', $each->term_taxonomy_id())->first(); ?>
 				<p><strong>term_name</strong> <?php echo $term_name->name(); ?></p>
 
 
@@ -29,12 +29,12 @@
 					$cleaned_post_content = str_replace($img_tag_matches[0], $img_tag_replacement, $post->post_content());
 
 					$newPage = page('collezione')->children()->create($post->post_name(), 'project', array(
-						'object_id'     => $each->object_id(),
-						'post_name' => $post->post_name(),
-						'guid'      => $post->guid(),
-						'post_title'      => $post->post_title(),
-						'post_content'      => $cleaned_post_content,
-						'tag'      => $term_name->name(),
+						'id'     => $each->object_id(),
+						'guid' => $post->post_name(),
+						'wordpress-guid'      => $post->guid(),
+						'Titolo'      => $post->post_title(),
+						'Descrizione'      => $cleaned_post_content,
+						'Tag'      => $term_name->name(),
 						));
 					echo "The page " . $post->post_title() . " has been created \n";
 					echo $newPage->root() . "\n";

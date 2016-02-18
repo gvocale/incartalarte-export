@@ -29,14 +29,18 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
+c::set('debug', true);
+
 c::set('db.host', 'localhost');
 c::set('db.user', 'root');
 c::set('db.password', 'root');
-c::set('db.name', 'liquorvitae');
-c::set('debug', true);
+// c::set('db.name', 'liquorvitae');
+c::set('db.name', 'incartalarte');
 
-// c::set('db.host', 'www.liquorvitae.it');
+// c::set('db.host', 'ns2.ams18.siteground.eu');
 // c::set('db.user', 'liquorvi_gvocale');
 // c::set('db.password', 'Cu4ZQJ]VSdNi');
-// c::set('db.name', 'liquorvi_liquorvitae');
-// c::set('debug', true);
+// // c::set('db.name', 'liquorvi_liquorvitae');
+// c::set('db.name', 'liquorvi_incartalarte');
+
+
