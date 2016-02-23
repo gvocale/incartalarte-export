@@ -1,0 +1,51 @@
+Id: 14602
+
+----
+
+Guid: toscana_casentino_petrarca_dante_mascetta-caracci_wulff_sardegna_cagliari_1904
+
+----
+
+Wordpress-guid: http://www.incartalarte.it//?product=toscana_casentino_petrarca_dante_mascetta-caracci_wulff_sardegna_cagliari_1904
+
+----
+
+Titolo: TOSCANA_CASENTINO_PETRARCA_DANTE_MASCETTA CARACCI_WULFF_SARDEGNA_CAGLIARI_1904
+
+----
+
+Descrizione: 
+
+<FONT size=3>
+<P align=center><FONT color=#800080 size=5><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT size=5 face="Trebuchet MS">LORENZO MASCETTA CARACCI</FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p><FONT color=#000000 face="Trebuchet MS"></FONT></o:p></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=7><FONT color=#fb0034>IL PETRARCA FANCIULLO NEL CASENTINO</FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><o:p><FONT color=#000000 face="Trebuchet MS">&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Trebuchet MS"></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Trebuchet MS"></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Trebuchet MS"></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Trebuchet MS"></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Trebuchet MS">Cagliari, Dessì, 1904.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><o:p><FONT color=#000000 face="Trebuchet MS">&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Trebuchet MS">Cm.20,5; pp.24; bross. edit. (difetti)</FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><SPAN style="FONT-FAMILY: Verdana; COLOR: green; FONT-SIZE: 13.5pt"></SPAN></FONT>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><SPAN style="FONT-FAMILY: Verdana; COLOR: green; FONT-SIZE: 13.5pt"></SPAN></FONT>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><SPAN style="FONT-FAMILY: Verdana; COLOR: green; FONT-SIZE: 13.5pt"></SPAN></FONT>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#0080c1 size=5 face="Trebuchet MS">Interessante edizione antica e d'epoca, </FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#0080c1 size=5 face="Trebuchet MS">impressa in Sardegna, inusuale studio relativo all'adolescenza del PETRARCA nel territorio nativo (Casentino, Arezzo), con la comparazione delle fonti biobibliografiche specifiche (Lapini, Fracassetti,...)&nbsp; senza trascurare la presenza di un altro grande, Dante;<SPAN style="mso-spacerun: yes">&nbsp; </SPAN></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#0080c1 size=5 face="Trebuchet MS"><SPAN style="mso-spacerun: yes"></SPAN></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT size=5 face="Trebuchet MS"><SPAN style="mso-spacerun: yes"></SPAN><FONT color=#00ae5f><EM>opera dedicata dall'autore al dotto petrarchisca Fredrik WULFF,</EM></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#0080c1 size=5 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#0080c1 size=5 face="Trebuchet MS">con all'interno numerose citazioni relative ad eventi o personaggi o località varie.</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#0080c1 size=5 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#f90066 size=6 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#f90066 size=6 face="Trebuchet MS">DI INTERESSE STORICO-LOCALE, LETTERARIO, FILOLOGICO, BIBLIOGRAFICO</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#f90066 size=5 face="Trebuchet MS"><EM>rara edizione originale, <STRONG>solo tre esemplari noti</STRONG> nel sistema bibliotecario nazionale.</EM></FONT></SPAN></FONT></FONT></P>
+<P align=center><FONT face="Trebuchet MS">Buona conservazione generale, segni e difetti d'uso e d'epoca, sparse fioriture, sciupate le copertine con macchie e annotazioni o scarabocchi a matita colorata, eventualmente meritevole di rilegatura.</FONT></P>
+
+----
+
+Tag: simple

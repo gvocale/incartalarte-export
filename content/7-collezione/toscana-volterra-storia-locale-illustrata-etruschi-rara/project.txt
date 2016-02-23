@@ -1,0 +1,92 @@
+Id: 14674
+
+----
+
+Guid: toscana_volterra_storia-locale-illustrata_etruschi_rara
+
+----
+
+Wordpress-guid: http://www.incartalarte.it//?product=toscana_volterra_storia-locale-illustrata_etruschi_rara
+
+----
+
+Titolo: TOSCANA_VOLTERRA_STORIA LOCALE ILLUSTRATA_ETRUSCHI_RARA
+
+----
+
+Descrizione: 
+
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><FONT face=Verdana></FONT></P><FONT size=2 face=Arial><SPAN style="FONT-SIZE: 11pt"><FONT face=verdana><FONT size=4><FONT color=brown><SPAN style="mso-spacerun: yes"><SPAN style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #b76b21; FONT-SIZE: 10pt">
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><FONT color=#444444 face=Verdana></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=black size=2 face=Verdana></FONT></SPAN></P><SPAN style="COLOR: #003366; FONT-SIZE: 14pt"><FONT face="Times New Roman"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p><SPAN style="COLOR: maroon; FONT-SIZE: 14pt">
+<P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="COLOR: maroon; FONT-SIZE: 10pt"><FONT color=#202020 face="Trebuchet MS"></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=black size=2 face=Verdana></FONT></SPAN></P></SPAN></o:p></FONT></SPAN></SPAN><o:p><FONT size=6 face="Times New Roman"><o:p><FONT size=6 face="Times New Roman">
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=black size=2 face="Trebuchet MS"><STRONG></STRONG></FONT></SPAN></P></FONT></o:p><FONT color=#444444 size=3 face="Trebuchet MS"></FONT></FONT></o:p>
+<P align=center><FONT color=#000000 size=3></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#444444 size=3 face=Verdana></FONT></SPAN></P>
+<P align=center><FONT color=#444444 size=3></FONT></P>
+<P align=center><FONT color=#444444 size=3></FONT>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#444444 size=3 face=Verdana></FONT></SPAN></P><STRONG><SPAN style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #b76b21; FONT-SIZE: 10pt"></SPAN></STRONG>
+<P align=center><FONT color=#444444 size=3></FONT></P><SPAN style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #b76b21; FONT-SIZE: 10pt">
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><FONT color=#343434><FONT face=Verdana></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan; mso-layout-grid-align: auto; mso-vertical-align-alt: auto; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT size=+0><FONT face=verdana><FONT size=2><FONT color=black></FONT></FONT></FONT></FONT></SPAN></P><FONT color=black size=3 face=verdana><o:p>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan; mso-layout-grid-align: auto; mso-vertical-align-alt: auto; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><FONT size=2><SPAN><EM></EM><o:p></o:p></SPAN></FONT></P></o:p></FONT></SPAN><SPAN style="FONT-FAMILY: 'Trebuchet MS'; COLOR: #b76b21; FONT-SIZE: 10pt">
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><FONT color=#444444></FONT></P>
+<P align=center><FONT color=green size=4 face=verdana><FONT color=red size=6></FONT></FONT>&nbsp;</P><FONT color=green size=4 face=verdana><FONT color=red size=6>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31>CONSORTINI LUIGI&nbsp;</FONT></FONT></FONT></SPAN></B></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><o:p></o:p></FONT></FONT></FONT></SPAN></B>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31>&nbsp;&nbsp;<o:p></o:p></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT color=#ff0010 size=6>VOLTERRA NELL'ANTICHITA’</FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT color=#ff0010 size=5></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#ff0010><FONT size=4><SPAN style="mso-spacerun: yes">&nbsp; </SPAN>OSSIA</FONT><SPAN style="mso-spacerun: yes">&nbsp; </SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT color=#ff0010 size=5><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><SPAN style="mso-spacerun: yes"></SPAN><FONT color=#ff0010>VOLTERRA ITALICA ETRUSCA E ROMANA</FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><o:p></o:p></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=3><FONT color=#202020>Volterra, Accademia dei Sepolti, 1940<o:p></o:p></FONT></FONT></FONT></SPAN></P><SPAN style="FONT-SIZE: 11pt">
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><BR><FONT face="Trebuchet MS"><FONT size=3><FONT color=#202020>Cm.25, pp.300, bross. edit. (difetti, dorso rotto)</FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=3><FONT color=#202020><o:p></o:p></FONT></FONT></FONT></SPAN>&nbsp;</P><SPAN style="FONT-SIZE: 11pt">
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><BR><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31>Opera di interesse storico-locale, artistico architettonico e culturale, oltre che documentario e fotografico</FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31>inerente la nota città toscana&nbsp; e le sue antichissime origini.</FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31></FONT></FONT></FONT>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31>Ampia e articolata trattazione, impossibile da sintetizzare, ma estrapolando dagli indici rileviamo capitoli su:</FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><o:p></o:p></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">ORIGINI DELLA CITTA'</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">ARRIVO DEI TIRRENI A VOLTERRA, LORO PRESENZA E LORO POTENZA E CONQUISTE</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">LO STATO ETRUSCO DEI VOLTERRANI</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">FLORIDEZZA DI VOLTERRA E SUE COSTRUZIONI</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">GLI ETRUSCHI VOLTERRANI E LE ARTI</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:PersonName ProductID="LA DODECAPOLI ETRUSCA" w:st="on"><I><SPAN style="FONT-SIZE: 11pt">LA DODECAPOLI ETRUSCA</SPAN></I></st1:PersonName><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">PROSPERITA' DI VOLTERRA - FATTI D'ARME COI ROMANI - <st1:PersonName ProductID="LA CITTA' SI" w:st="on">LA CITTA' SI</st1:PersonName> ASSOCIA A ROMA</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">VOLTERRA CITTA' DELLA CONFEDERAZIONE ITALICA</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">VOLTERRA NELLA GUERRA CIVILE TRA MARIO E SILLA</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">I LEGIONARI DI CESARE E DI AUGUSTO NEL VOLTERRANO</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG>&nbsp;<o:p></o:p></STRONG></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd><STRONG><I><SPAN style="FONT-SIZE: 11pt">VOLTERRA SOTTO L'IMPERO</SPAN></I><SPAN style="FONT-SIZE: 11pt"><o:p></o:p></SPAN></STRONG></FONT></FONT></FONT></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31>&nbsp;<o:p></o:p></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#002cfd>In appendice: le necropoli volterrane, epigrafia etrusca volterrana, famiglie etrusche e romane di Volterra, elenco dei ritrovamenti archeologici.<SPAN style="mso-spacerun: yes">&nbsp; </SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><SPAN style="mso-spacerun: yes"></SPAN>Utilissimi indici finali, anche dei nomi, e bibliografia...<SPAN style="mso-spacerun: yes"> </SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><SPAN style="mso-spacerun: yes"></SPAN>Impossibile anche poter sintetizzare l'ampio apparato illustrativo composto da 146 figure n.t. e una carta topografica (in cui è anche presente l’Isola d’Elba).<SPAN style="mso-spacerun: yes">&nbsp;</SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT color=#f90066 size=6><SPAN style="mso-spacerun: yes">OPERA DI INTERESSE STORICO-LOCALE, ARTISTICO ARCHEOLOGICO BIBLIOGRAFICO</SPAN></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#2e6b31><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=+0><FONT size=3><FONT color=#202020><SPAN style="mso-spacerun: yes">&nbsp;</SPAN>Buona conservazione generale, segni e difetti d'uso e d'epoca, macchie a qualche carta, firma&nbsp;exlibris,&nbsp;strappetti marginali di cui uno di alcuni cm. ad una carta, una mancanza marginale in basso ad una carta; eventualmente degno di rilegatura.</FONT></FONT></FONT></FONT></SPAN></P>
+<P align=center></FONT></FONT>&nbsp;</P></SPAN></SPAN></FONT></FONT></FONT></SPAN></FONT>
+
+----
+
+Tag: simple

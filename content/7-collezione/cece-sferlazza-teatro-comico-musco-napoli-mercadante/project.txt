@@ -1,0 +1,45 @@
+Id: 14676
+
+----
+
+Guid: cece-sferlazza_teatro-comico_musco_napoli_mercadante
+
+----
+
+Wordpress-guid: http://www.incartalarte.it//?product=cece-sferlazza_teatro-comico_musco_napoli_mercadante
+
+----
+
+Titolo: CECE&#039; SFERLAZZA_TEATRO COMICO_MUSCO_NAPOLI_MERCADANTE
+
+----
+
+Descrizione: 
+
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT color=#00437b face="Trebuchet MS">R. TEATRO MERCADANTE</FONT></SPAN></SPAN></P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT color=#00437b size=4 face="Trebuchet MS">IMPRESA SANTOMARTINO &amp; SISTO</FONT></SPAN></SPAN></P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT color=#00437b size=4 face="Trebuchet MS"></FONT></SPAN></SPAN>&nbsp;</P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT size=7 face="Trebuchet MS">PROGRAMMA</FONT></SPAN></SPAN></P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT size=4 face="Trebuchet MS"></FONT></SPAN></SPAN>&nbsp;</P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><FONT size=3><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT color=#00ae5f face="Trebuchet MS">COMICA COMPAGNIA DIRETTA DA ANGELO MUSCO</FONT></SPAN></FONT></SPAN></P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT color=#002cfd size=6 face="Trebuchet MS">DON CECE' SFERLAZZA</FONT></SPAN></SPAN></P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT color=#202020 size=4 face="Trebuchet MS">COMMEDIA IN 3 ATTI DI A.BARBIERI</FONT></SPAN></SPAN></P>
+<P align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: #993300"><FONT size=3><SPAN style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt"><FONT face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt; mso-ansi-language: EN-GB" lang=EN-GB><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p><FONT color=#007e46 size=5 face="Trebuchet MS"></FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#007e46 size=5 face="Trebuchet MS">Interessante antico e raro pieghevole pubblicitario, </FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#007e46 size=5 face="Trebuchet MS">con il programma delle rappresentazioni teatrali del noto Teatro Mercadante di Napoli,</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#007e46 size=5 face="Trebuchet MS">e in particolare pubblicitario della&nbsp;commedia del Barbieri </FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#0080c1 size=5 face="Trebuchet MS"><EM>con interpreti lo stesso Musco e altri attori nelle parti di D. Cecè Sferlazza, Barone Cammarata, Marchese di Cebbiagrande, Comm. Meli, Notaio Rerti, Farmacista, Avv. Nicosia, Zenobia, Lidia Montesanto, ....</EM></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#007e46 size=5 face="Trebuchet MS">Il foglio volante o pieghevole è impresso su entrambi i lati ed è arricchito da numerose inserzioni pubblicitarie di ditte napoletane, come</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#ad001f size=5 face="Trebuchet MS"><EM>De Maria cappelli per signora, Manzo camiceria da uomo, Farmacia Durst, Jandoli sartoria uomo donna, Iacone calze, Gambarini pipe e articoli per fumatori, Boccafusca camicie, Nautili pelliccerie, Alati calzature, Palumbo camicie su misura, Matarazzo oggetti da regalo, Cerbone lane, Tintoria Dori, Bowinkel arte, Picarelli estetica, Buccafisca abbigliamento e fornitore della duchessa d'Aosta, Malato ottica, magazzini San Felice, ...</EM></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#007e46 size=5 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#002cfd size=5 face="Trebuchet MS">quasi tutte le inserzioni pubblicitarie figurate sono state eseguite su disegno dell'artista illustratore G. Rossi.</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; FONT-SIZE: 14pt; mso-font-kerning: 8.0pt"><FONT color=#007e46 size=5 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; mso-font-kerning: 8.0pt"><FONT color=#f90066 size=6 face="Trebuchet MS">DI INTERESSE SPECIALISTICO TEATRALE, STORICO-LOCALE, PUBBLICITARIO E COLLEZIONISTICO</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; mso-font-kerning: 8.0pt"><FONT color=#2f0056 size=6 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; mso-font-kerning: 8.0pt"><FONT color=#000000 face="Trebuchet MS">Misura cm. 26x34 (volantino aperto, ossia disteso); tip. La Celere (Napoli); s.d. (primo '900):</FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 5pt 2cm 5pt 54pt" align=center><SPAN style="FONT-FAMILY: Verdana; COLOR: black; mso-font-kerning: 8.0pt"><FONT color=#000000 face="Trebuchet MS">discreta conservazione generale, segni e difetti d'uso e d'epoca, sparse fioriture, piegature e sgualciture, difetti marginali, meritevole anche di essere incorniciato.</FONT></SPAN></P></FONT></SPAN>
+
+----
+
+Tag: simple

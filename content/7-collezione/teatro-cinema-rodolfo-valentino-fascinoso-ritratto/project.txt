@@ -1,0 +1,34 @@
+Id: 14680
+
+----
+
+Guid: teatro_cinema_rodolfo-valentino_fascinoso-ritratto
+
+----
+
+Wordpress-guid: http://www.incartalarte.it//?product=teatro_cinema_rodolfo-valentino_fascinoso-ritratto
+
+----
+
+Titolo: TEATRO_CINEMA_RODOLFO VALENTINO_FASCINOSO RITRATTO
+
+----
+
+Descrizione: 
+
+<P align=center><FONT color=red size=7 face="Trebuchet MS">RODOLFO VALENTINO</FONT></P>
+<P align=center><FONT color=red size=4 face="Trebuchet MS"><EM></EM></FONT></P><FONT color=black size=3>
+<P align=center><FONT color=green size=4 face="Trebuchet MS"></FONT>&nbsp;</P><FONT color=green size=4 face="Trebuchet MS">
+<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#000000><FONT face="Times New Roman">&nbsp; </FONT></FONT></SPAN></FONT></P>
+<P align=center><FONT color=green size=5 face="Trebuchet MS">Interessante antica e rara&nbsp;foto-cartolina originale raffigurante il noto attore di origini pugliesi (di Castellaneta, Taranto), in abito di scena, probabilmente in una delel sue apparizioni cinematografiche;</FONT></P></FONT>
+<P align=center><FONT color=black size=3 face="Trebuchet MS"><STRONG></STRONG></FONT>&nbsp;</P>
+<P align=center><FONT color=black size=4 face="Trebuchet MS">foto-cartolina d'epoca,&nbsp;misura circa cm.9x14; mai usata nè viaggiata per posta; databile alla prima metà del '900.</FONT></P>
+<P align=center><STRONG><FONT size=3 face="Trebuchet MS"></FONT></STRONG>&nbsp;</P>
+<P align=center><FONT color=blue size=6 face="Trebuchet MS">DI&nbsp;INTERESSE CINEMATOGRAFICO, FOTOGRAFICO, STORICO-LOCALE,&nbsp;COLLEZIONISTICO</FONT></P>
+<P align=center><FONT face="Trebuchet MS">&nbsp;Buona conservazione generale, segni e difetti&nbsp; d'uso&nbsp;e d'epoca,</FONT></P>
+<P align=center><FONT face="Trebuchet MS"><STRONG><EM>meritevole anche di essere inserita sotto passpartout ed incorniciata.</EM></STRONG></FONT></P>
+<CENTER><FONT size=2 face=Arial,Helvetica></FONT>&nbsp;</CENTER>
+
+----
+
+Tag: simple

@@ -1,0 +1,51 @@
+Id: 14658
+
+----
+
+Guid: illustratori-liberty_nonni_rara-cartolina-depoca
+
+----
+
+Wordpress-guid: http://www.incartalarte.it//?product=illustratori-liberty_nonni_rara-cartolina-depoca
+
+----
+
+Titolo: ILLUSTRATORI LIBERTY_NONNI_RARA CARTOLINA D&#039;EPOCA
+
+----
+
+Descrizione: 
+
+<CENTER><FONT face=Arial,Helvetica size=2>
+<P align=center><FONT face=Verdana color=#fb0034 size=7><U>NONNI</U></FONT></P>
+<P align=center><FONT color=#fb0034 size=7></FONT>&nbsp;</P>
+<P align=center><SPAN style="TEXT-ALIGN: justify"><FONT face=Verdana color=red size=1></P></FONT></SPAN>
+<P align=center>
+<P align=center><FONT face=Verdana color=red size=4><U></U></FONT></P><FONT color=green size=4></FONT>
+<P align=center></P>
+<P align=center>
+<P align=center><STRONG><FONT face=Verdana color=blue size=4></FONT></STRONG></P>
+<P align=center></P><FONT color=#a52a2a><FONT color=black>
+<P align=center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0 valign="top">
+<TBODY>
+<TR>
+<TD width=30></TD>
+<TD class=sec1intro vAlign=top width=320>
+<P align=center><A class=sec1intro style="CURSOR: auto"></A>&nbsp;</P></TD></TR></TBODY></TABLE></P><A class=sec1intro style="CURSOR: auto"></A></FONT></FONT>
+<P align=center><FONT face=Verdana><FONT color=#408641 size=5>Bellissima&nbsp;antica cartolina, originale d'epoca, liberty, con raffigurazione di una coppia in una osteria.</FONT></FONT></P>
+<P align=center><FONT face=Verdana color=#408641 size=5></FONT>&nbsp;</P>
+<P align=center><STRONG><FONT face=Verdana color=#a52a2a size=4><FONT color=black size=3>Cm. 9x14 circa; non viaggiata; databile primo '900</FONT></FONT></STRONG></P>
+<P align=center><STRONG><FONT face=Verdana color=#a52a2a size=4><FONT color=black size=3></FONT></FONT></STRONG>&nbsp;</P>
+<P align=center><STRONG><FONT face=Verdana color=#00437b size=6>DA COLLEZIONE E DECORATIVA</FONT></STRONG></P>
+<P align=center><FONT face=Verdana color=#444444 size=3>Buona conservazione generale, usuali segni o difetti d'uso o d'epoca.</FONT></P><A href="http://pages.ebay.it/turbo_lister/"></A></FONT></CENTER>
+			<CENTER>
+			<IMG SRC='http://pics.ebay.com/aw/pics/sell/templates/images/k2/tagline.gif' BORDER='0' />
+			<BR />
+			<FONT FACE="Arial,Helvetica" SIZE="2">Creato da <A HREF="http://pages.ebay.it/turbo_lister/">Turbo Lister</A>
+			</FONT>
+			</CENTER>
+
+----
+
+Tag: simple
