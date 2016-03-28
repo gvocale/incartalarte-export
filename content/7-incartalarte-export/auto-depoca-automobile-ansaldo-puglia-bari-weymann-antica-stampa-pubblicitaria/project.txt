@@ -2,6 +2,18 @@ Id: 9357
 
 ----
 
+Post-author: 2
+
+----
+
+Post-date: 2014-05-25 20:03:46
+
+----
+
+Post-date-gmt: 2014-05-25 20:03:46
+
+----
+
 Post-content: 
 
 <p style="TEXT-ALIGN: center; BACKGROUND: white" align="center">
@@ -18,15 +30,13 @@ Post-content:
 <p style="TEXT-ALIGN: center; BACKGROUND: white" align="center"><strong><span style="font-family: Verdana; color: black; font-weight: normal;"><o:p><font face="Trebuchet MS" size="2"><em>(le immagini allegate raffigurano particolari dell'intera pubblicazione, eventuali ulteriori informazioni a richiesta)</em></font></o:p></span></strong></p><strong><span style="FONT-FAMILY: Verdana; COLOR: red; FONT-SIZE: 18pt; mso-font-kerning: 8.0pt">
 </span></strong><p style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class="MsoNormal" align="center"><strong></strong><font size="2" face="Arial,Helvetica"></font>&nbsp;</p>
 
-
-
-<!-- JPEGbay.com start -->
-<table id="extgallery3061229" style="border:1px solid #aaa; margin: 0 auto"><tbody><tr><td style="padding:5px; border-bottom:1px solid #aaa">Item Photos</td></tr><tr><td style="padding:20px; width:450px"><center><a title="" href="http://jpegbay.com/gallery/003061229-.html#1" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/1_m.jpg" style="margin:10px; float:left"></a><a title="" href="http://jpegbay.com/gallery/003061229-.html#2" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/2_t.jpg" style="margin:10px"></a><a title="" href="http://jpegbay.com/gallery/003061229-.html#3" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/3_t.jpg" style="margin:10px"></a><a title="" href="http://jpegbay.com/gallery/003061229-.html#4" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/4_t.jpg" style="margin:10px"></a><br><small><a href="http://jpegbay.com/">JPEGbay.com - free eBay hosting</a></small></center></td></tr></tbody></table>
-<!-- JPEGbay.com stop -->
-
 ----
 
 Post-title: AUTO D&#039;EPOCA_AUTOMOBILE ANSALDO_PUGLIA_BARI_WEYMANN_ANTICA STAMPA PUBBLICITARIA
+
+----
+
+Post-excerpt: 
 
 ----
 
@@ -34,8 +44,212 @@ Post-status: publish
 
 ----
 
+Comment-status: closed
+
+----
+
+Ping-status: closed
+
+----
+
+Post-password: 
+
+----
+
 Post-name: auto-depoca_automobile-ansaldo_puglia_bari_weymann_antica-stampa-pubblicitaria
 
 ----
 
-Guid: http://www.incartalarte.it//?product=auto-depoca_automobile-ansaldo_puglia_bari_weymann_antica-stampa-pubblicitaria
+To-ping: 
+
+----
+
+Pinged: 
+
+----
+
+Post-modified: 2014-05-25 20:03:46
+
+----
+
+Post-modified-gmt: 2014-05-25 20:03:46
+
+----
+
+Post-content-filtered: 
+
+----
+
+Post-parent: 0
+
+----
+
+Guid: http://www.incartalarte.it/?product=auto-depoca_automobile-ansaldo_puglia_bari_weymann_antica-stampa-pubblicitaria
+
+----
+
+Menu-order: 0
+
+----
+
+Post-type: product
+
+----
+
+Post-mime-type: 
+
+----
+
+Comment-count: 0
+
+----
+
+Category-number: 2, 612, 685
+
+----
+
+Category-name: simple, PUGLIA, Pubblicitaria
+
+----
+
+Category-slug: simple, puglia, pubblicitaria
+
+----
+
+Ebay-item-source: imported()
+
+----
+
+Ebay-item-id: 301194598508()
+
+----
+
+Ebay-auction-type: FixedPriceItem()
+
+----
+
+Ebay-category-1-id: 20148()
+
+----
+
+Ebay-category-2-id: 13575()
+
+----
+
+Ebay-shipping-service-type: flat()
+
+----
+
+Ebay-loc-shipping-options: a:1:{i:0;a:3:{s:12:"service_name";s:12:"IT_QuickMail";s:5:"price";s:4:"15.0";s:9:"add_price";N;}}()
+
+----
+
+Ebay-shipping-shiptolocations: a:1:{i:0;s:9:"Worldwide";}()
+
+----
+
+Ebay-seller-shipping-profile-id: 29773620016()
+
+----
+
+Ebay-seller-payment-profile-id: 13099177016()
+
+----
+
+Ebay-seller-return-profile-id: 44395500016()
+
+----
+
+Regular-price: 139.0()
+
+----
+
+Price: 108.42()
+
+----
+
+Sale-price: 108.42()
+
+----
+
+Stock: 1()
+
+----
+
+Stock-status: instock()
+
+----
+
+Manage-stock: yes()
+
+----
+
+Backorders: no()
+
+----
+
+Total-sales: 0()
+
+----
+
+Visibility: visible()
+
+----
+
+Sku: 301194598508()
+
+----
+
+Tax-status: taxable()
+
+----
+
+Tax-class: ()
+
+----
+
+Weight: ()
+
+----
+
+Width: ()
+
+----
+
+Height: ()
+
+----
+
+Length: ()
+
+----
+
+Featured: no()
+
+----
+
+Thumbnail-id: 9358()
+
+----
+
+Attachment-post-title: AUTO-DEPOCA_AUTOMOBILE-ANSALDO_PUGLIA_BARI_WEYMANN_ANTICA-STAMPA-PUBBLICITARIA-301194598508
+
+----
+
+Attachment-post-name: auto-depoca_automobile-ansaldo_puglia_bari_weymann_antica-stampa-pubblicitaria-301194598508
+
+----
+
+Attachment-guid: http://www.incartalarte.it/wp-content/uploads/imported/301194598508/AUTO-DEPOCA_AUTOMOBILE-ANSALDO_PUGLIA_BARI_WEYMANN_ANTICA-STAMPA-PUBBLICITARIA-301194598508.jpg
+
+----
+
+Images: http://img1.jpegbay.com/gallery/003061229/1_m.jpg, http://img1.jpegbay.com/gallery/003061229/2_t.jpg, http://img1.jpegbay.com/gallery/003061229/3_t.jpg, http://img1.jpegbay.com/gallery/003061229/4_t.jpg
+
+----
+
+Jpegbay: 
+
+<!-- JPEGbay.com start -->
+<table id="extgallery3061229" style="border:1px solid #aaa; margin: 0 auto"><tbody><tr><td style="padding:5px; border-bottom:1px solid #aaa">Item Photos</td></tr><tr><td style="padding:20px; width:450px"><center><a title="" href="http://jpegbay.com/gallery/003061229-.html#1" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/1_m.jpg" style="margin:10px; float:left"></a><a title="" href="http://jpegbay.com/gallery/003061229-.html#2" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/2_t.jpg" style="margin:10px"></a><a title="" href="http://jpegbay.com/gallery/003061229-.html#3" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/3_t.jpg" style="margin:10px"></a><a title="" href="http://jpegbay.com/gallery/003061229-.html#4" target="_blank"><img src="http://img1.jpegbay.com/gallery/003061229/4_t.jpg" style="margin:10px"></a><br><small><a href="http://jpegbay.com/">JPEGbay.com - free eBay hosting</a></small></center></td></tr></tbody></table>
+<!-- JPEGbay.com stop -->

@@ -1,0 +1,46 @@
+Id: 1376
+
+----
+
+Guid: emilia-romagna_parma_foglio-periodico_araldica_rarita
+
+----
+
+Wordpress-guid: http://www.incartalarte.it//?product=emilia-romagna_parma_foglio-periodico_araldica_rarita
+
+----
+
+Titolo: EMILIA ROMAGNA_PARMA_FOGLIO PERIODICO_ARALDICA_RARITA&#039;
+
+----
+
+Descrizione: 
+
+<P align=left><FONT color=blue size=4></FONT></P><FONT color=red size=5>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><SPAN style="mso-spacerun: yes"></SPAN></SPAN></P></FONT>
+<P style="MARGIN: 0cm 0cm 0pt; tab-stops: 35.4pt" class=MsoBodyText align=center><SPAN style="FONT-SIZE: 11pt; FONT-WEIGHT: normal"><FONT face=verdana><FONT size=4><FONT color=black></FONT></FONT></FONT></SPAN></P><SPAN style="FONT-SIZE: 11pt; FONT-WEIGHT: normal"></SPAN>
+<P style="MARGIN: 0cm 0cm 0pt; tab-stops: 76.5pt" class=MsoNormal align=center>
+<P style="MARGIN: 0cm 0cm 0pt; tab-stops: 76.5pt" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT size=4><FONT face=verdana><FONT color=green><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></FONT></SPAN></P><FONT size=2 face=Arial,Helvetica>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT color=#ff0010 size=7>FOGLIO PERIODICO</FONT></FONT></SPAN></B></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT size=5><FONT color=#00429a></FONT></FONT></FONT></SPAN></B>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-SIZE: 11pt"><FONT face="Trebuchet MS"><FONT color=#ff0010>1841&nbsp;<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-SIZE: 11pt"><o:p><FONT color=#00429a size=5 face="Trebuchet MS">&nbsp;</FONT></o:p></SPAN></B></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#00429a><FONT size=5 face="Trebuchet MS">Interessante rara antica edizione originale,</FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#00429a><FONT size=5 face="Trebuchet MS">raccolta&nbsp;di un rarissimo&nbsp;periodico pubblicato sotto il Ducato di Parma, in cui comparvero notizie importanti per la economia e la cultura locale, </FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#00429a><FONT size=5 face="Trebuchet MS">dai Bandi alle Vendite Giudiziarie di beni mobili ed immobili, a notizie su beni dispersi,... i prezzi praticati nei mercati di Parma, Piacenza, Genova, ...ma anche i risultati delle estrazioni del LOTTO.</FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#00429a><FONT size=5 face="Trebuchet MS"></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#ad001f size=5 face="Trebuchet MS"><EM>&nbsp;<SPAN style="mso-spacerun: yes">&nbsp;</SPAN>Praticamente, il giornale era il bollettino ufficiale del Ducato parmense, e le notizie che forniva sono tuttora di notevole importanza per ricostruire la vita economica e sociale dell’epoca, ma utili anche per rintracciare interessanti curiosità di storia locale, </EM></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#ad001f size=5 face="Trebuchet MS"><EM>così come si evince per esempio&nbsp;dalla lettura di una vendita giudiziale “d’una casa in Parma”, con note relative alla sua posizione topografica e suddivisione dei locali o stanze, le proprietà... i confinanti... ecc.</EM></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#00429a><FONT size=5 face="Trebuchet MS">Pertanto è facile intuire quanto utile sia per il ricercatore di memorie patrie<SPAN style="mso-spacerun: yes">&nbsp;</SPAN>spulciare nei vari avvisi di vendita di locali e terreni, per tirarne fuori antichi toponimi&nbsp;e nomi di personaggi di tutti i ceti sociali, e verificarne anche lo stato economico dell’epoca espresso per esempio dallo stato di insolvibilità di enti o privati,... oltre che dalla comparazione dei prezzi dei prodotti agricoli censiti.&nbsp;<SPAN style="mso-spacerun: yes">&nbsp;</SPAN></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#00429a><FONT size=5 face="Trebuchet MS"><SPAN style="mso-spacerun: yes"></SPAN></FONT></FONT></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT size=5 face="Trebuchet MS"><SPAN style="mso-spacerun: yes"></SPAN><FONT color=#408641><EM>Opera di indiscutibile interesse, di bello stato di conservazione, con i vari bollettini contrassegnati dallo stemma araldico ducale nell’intestazione, rilegati in un unico volume di oltre 200 pp.(226 !?), (cm.22,5; cartonato antico), comprendente praticamente&nbsp;l’annata 1841, da Gennaio a Dicembre (circa 50 fascicoli!)</EM></FONT></FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#f90066 size=6 face="Trebuchet MS">DI INTERESSE CULTURALE, STORICO-LOCALE, GIURIDICO-ECONOMICO, BIBLIOGRAFICO</FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT color=#00429a size=5 face="Trebuchet MS"></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><FONT color=#343434 size=3 face="Trebuchet MS">Buona conservazione generale,&nbsp;segni o difetti d'uso&nbsp;e d'epoca,&nbsp;sparse fioriture, alcune macchie (ossidazione ?) a qualche pagina, difetti alla legatura, ma esemplare su bella carta vergellata e a margini ancora parzialemente intonsi.</FONT></FONT></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt; BACKGROUND: white" class=MsoNormal align=center><SPAN style="FONT-SIZE: 11pt"><FONT face="Times New Roman"><SPAN style="mso-spacerun: yes"></SPAN></FONT></SPAN>&nbsp;</P>
+<P align=center></FONT>&nbsp;</P>
+
+----
+
+Tag: simple
