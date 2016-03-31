@@ -1,273 +1,292 @@
 <?php snippet('header') ?>
 
-<?php $postmeta = db::select('alfa_postmeta', '*'); ?>
+
 <?php $posts = db::select('alfa_posts', '*'); ?>
+<?php $postmeta = db::select('alfa_postmeta', '*'); ?>
 <?php $term_relationships = db::select('alfa_term_relationships', '*'); ?>
 <?php $terms = db::select('alfa_terms', '*'); ?>
-<?php $terms_array = (array) $terms ?>
-<?php $terms_array = $terms_array['data'] ?>
+
+<style>
+	.successful {
+		color: green;
+	}
+	.error {
+		color: red;
+	}
+</style>
 
 <?php 
-ini_set('max_execution_time', 0); //300 seconds = 5 minutes
+ini_set('max_execution_time', 15); //300 seconds = 5 minutes
 //OR
-set_time_limit(300); //If set to zero, no time limit is imposed. ?>
+set_time_limit(15); //If set to zero, no time limit is imposed. ?>
 
 <!-- Number of post I'm testing this page with -->
 
 
-<?php foreach ($posts->limit(10000) as $singlepost): ?>
+<?php 
 
-	<?php 
-	// $post_id_test = "9357"; 
-	?>
+$product = [];
+
+$post = $posts->filterBy("ID", "1144");
+foreach ($post as $post) {
+
+	if ($post->post_type() == "product") {
+		// Print detailed content of post
+		// echo '<pre>'; print_r($post); echo '</pre>';
+		// Values I need are following
+		// echo $post->ID() . '</br>';
+		// echo $post->post_content() . '</br>';
+		// echo $post->post_title() . '</br>';
+		// echo $post->post_date() . '</br>';
+		// echo $post->post_status() . '</br>';
+		// echo $post->post_name() . '</br>';
+		// echo $post->guid() . '</br>';
+		// Let's add these values into the new $product;
+		$product["id"] = $post->ID();
+		$product["content"] = $post->post_content();
+		$product["title_caps"] = $post->post_title();
+		$product["date"] = $post->post_date();
+		$product["status"] = $post->post_status();
+		$product["title"] = $post->post_name();
+		$product["old_guid"] = $post->guid();
+	}
+};
+
+
+$metas = $postmeta->filterBy("post_id", "1144");
+foreach ($metas as $meta) {
+	// Print detailed content of meta, related to product id
+	// foreach ($meta as $key => $value) {
+	// 	echo '<pre>'; echo($key); echo '</pre>';	
+	// 	echo '<pre>'; echo($value); echo '</pre>';
+	// }
+	// Values I need are following
+	if ($meta->meta_key() == "_ebay_item_id") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["ebay_item_id"] = $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_ebay_category_1_id") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["ebay_category"] = $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_ebay_category_2_id") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+	//		Appending string	
+		$product["ebay_category"] .= ", " . $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_regular_price") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["regular_price"] = $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_price") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["price"] = $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_sale_price") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["sale_price"] = $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_sku") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["ebay_sky"] = $meta->meta_value();
+	}
+	if ($meta->meta_key() == "_thumbnail_id") {
+	// 	echo $meta->meta_key() . '</br>';
+	// 	echo $meta->meta_value() . '</br>';
+		$product["thumbnail_id"] = $meta->meta_value();
+	}
 	
-	<?php $post_id_test = $singlepost->ID(); ?>
-
-	<?php $new_post = [] ?>
-	<div style="background-color: hsla(320, 100%, 50%, 0.2)">
-
-		<h2>$post filtered by [ID]</h2>
-
-		<!-- $post filtered by [ID] -->
-
-		<?php $post = $posts->filterBy('ID',$post_id_test)->first() ?>
-		<?php foreach ($post as $key => $value): ?>
-			<?php $new_post["$key"] = "$value"; ?>
-		<?php endforeach ?>
-
-		<?php echo '<pre>'; print_r($new_post); echo '</pre>'; ?>
-
-		<hr class="" style="height: 1px; width: 100%; background:gray; margin: 2rem 0;"></hr>
-
-	</div>
-
-	<hr class="" style="height: 1px; width: 100%; background:red; margin: 2rem 0;"></hr>
-
-
-	<section style="background-color: hsla(106, 100%, 50%, 0.2)">
-
-		<h2>$post filtered by [post_parent] = [ID]</h2>
-
-		<!-- $post filtered by [post_parent] = [ID] -->
-
-		<?php $post_parent = $posts->filterBy('post_parent',$post_id_test)->first() ?>
-		<?php $post_parent = (array) $post_parent ?>
-		<?php echo '<pre>'; print_r($post_parent); echo '</pre>'; ?>
-		<?php $new_post["attachment_ID"] = $post_parent['ID']; ?>
-		<?php $new_post["attachment_post_title"] = $post_parent['post_title']; ?>
-		<?php $new_post["attachment_post_name"] = $post_parent['post_name']; ?>
-		<?php $new_post["attachment_guid"] = $post_parent['guid']; ?>
-		<?php $new_post["attachment_parent"] = $post_parent['post_parent']; ?>
-
-	</section>
-
-
-	<section style="background-color: hsla(270, 100%, 50%, 0.2)">
-		<h2>$term_relationships (Category Number)</h2>
-		<!-- Terms Relationship (Category Number) -->
-		<?php $term_relationships = $term_relationships->filterBy('object_id',$post->ID()) ?>
-		<?php $term_relationships_array = (array) $term_relationships ?>
-		<?php $term_relationships_array = $term_relationships_array['data'] ?>
-
-
-		<?php $category_number = [] ?>
-		<?php $category_name = [] ?>
-		<?php $category_slug = [] ?>
-		<?php foreach ($term_relationships_array as $category): ?>
-			<?php $category_number[] = $category->term_taxonomy_id() ?>
-		<?php endforeach ?>
-		<?php echo '<pre>'; print_r($category_number); echo '</pre>'; ?>
-
-		<?php $category_number_value =  rtrim(implode(', ', $category_number), ', '); ?>
-
-		<?php $new_post["category_number"] = "$category_number_value" ?>
-	</section>
-
-	<hr class="" style="height: 1px; width: 100%; background:gray; margin: 2rem 0;"></hr>
-
-	<section style="background-color: hsla(253, 100%, 50%, 0.2)">
-		<h2>Category Name & slug</h2>
-
-		<?php foreach ($category_number as $each): ?>
-			<?php $term = $terms->filterBy('term_id', $each) ?>
-			<?php $term = $term->first() ?>
-			<?php $category_name[] = $term->name() ?>
-			<?php $category_slug[] = $term->slug() ?>	
-		<?php endforeach ?>
-
-		<?php echo '<pre>'; print_r($category_name); echo '</pre>'; ?>
-		<?php echo '<pre>'; print_r($category_slug); echo '</pre>'; ?>
-
-		<?php $category_name_value =  rtrim(implode(', ', $category_name), ', '); ?>
-
-		<?php $new_post["category_name"] = "$category_name_value" ?>
-
-		<?php $category_slug_value =  rtrim(implode(', ', $category_slug), ', '); ?>
-
-		<?php $new_post["category_slug"] = "$category_slug_value" ?>
-
-	</section>
-	<hr class="" style="height: 1px; width: 100%; background:gray; margin: 2rem 0;"></hr>
-
-	<section style="background-color: hsla(189, 100%, 50%, 0.2)">
-		<h2>$postmeta & slug filtered by ID</h2>
-		<!-- Post meta (informazioni varie) -->
-		<?php $metas = $postmeta->filterBy('post_id',$post->ID()) ?>
-		<?php echo '<pre>'; print_r($metas); echo '</pre>'; ?>
-
-		<?php foreach ($metas as $meta): ?>
-			<?php $new_post["$meta->meta_key()"] = "$meta->meta_value()"; ?>
-		<?php endforeach ?>
-
-		<p><strong>Post Meta filtered by ID added to $new_post</strong></p>
-
-	</section>
-
-	<section style="background-color: hsla(189, 100%, 50%, 0.2)">
-		<h2>$postmeta & slug filtered by Post Parent</h2>
-		<!-- Post meta (informazioni varie) -->
-		<?php $metas = $postmeta->filterBy('post_id',$post_parent['ID']) ?>
-		<?php echo '<pre>'; print_r($metas); echo '</pre>'; ?>
-
-		<?php foreach ($metas as $meta): ?>
-			<?php $new_post["$meta->meta_key()"] = "$meta->meta_value()"; ?>
-		<?php endforeach ?>
-
-		<p><strong>Post Meta filtered by Post Parent added to $new_post</strong></p>
-
-	</section>
-
-
-	<hr class="" style="height: 1px; width: 100%; background:red; margin: 2rem 0;"></hr>
-
-
-
-
-	<section style="background-color: hsla(46, 100%, 50%, 0.2)">
-
-		<h2 class="">Search and Replace Images / Sanitization</h2>
-
-		<!-- Search and replace incartalarte.it// into incartalarte.it/ -->
-
-		<?php 
-		$new_post['guid'] = str_replace("incartalarte.it//","incartalarte.it/",$new_post['guid']);
-		$new_post['attachment_guid'] = str_replace("incartalarte.it//","incartalarte.it/",$new_post['attachment_guid']);
-		$new_post['post_content'] = str_replace("incartalarte.it//","incartalarte.it/",$new_post['post_content']); ?>
-
-
-		<!-- Finds any string starting with http, ending with jpg and not including white spaces, and puts it in $images -->
-
-		<?php 
-		$what = '/http.[^\s]*jpg/';
-		preg_match_all($what, $new_post['post_content'], $images); ?>
-		<?php $images =  $images[0]; ?>
-
-
-
-		<!-- Find JPEGbay code, moves it to $new_post['jpegbay'], then removes it from $new_post['post_content'] -->
-		<!-- Find any string starting with JPEG and ending with stop, including whitespace and multiline -->
-		<?php 
-		$what = '/<!-- JPEG.[\S\s]*stop -->/';
-		preg_match_all($what, $new_post['post_content'], $jpegbay); ?>
-		<?php $new_post['jpegbay'] = $jpegbay[0][0] ?>
-		<?php $new_post['post_content'] = str_replace($new_post['jpegbay'],"",$new_post['post_content']); ?>
-
-
-		<!-- Remove any <img> tag from post content -->
-		<?php
-		$img_tag = '<img([\w\W]+?)>';
-		preg_match_all($img_tag, $new_post['post_content'], $img_tag_matches);
-		$new_post['post_content'] = str_replace($img_tag_matches[0], "", $new_post['post_content']); ?>
-
-
-		<!-- Puts the image $new_post['attachment_guid'] into $images -->
-		<?php 
-		$images[] = $new_post['attachment_guid'];
-		echo '<pre>'; print_r($images); echo '</pre>'; ?>
-
-
-		<!-- Puts the image $new_post['_wp_attached_file()'] into $images and prepends http://www.incartalarte.it to it -->
-
-		<?php 
-	// Trim the () from the value
-
-		$new_post['_wp_attached_file()'] = rtrim($new_post['_wp_attached_file()'], "()");
-		$images[] = "http://www.incartalarte.it/wp-content/uploads/" . $new_post['_wp_attached_file()'];
-		echo '<pre>'; print_r($images); echo '</pre>'; ?>
-
-
-
-		<!-- If an image link is broken, gets moved to $images_broken. If it's working, get's moved to $image_working -->
-		<?php 
-		$images_working = [];
-		$images_broken = [];
-		foreach ($images as $image) {
-			if (@getimagesize($image)) {
-				$images_working[] = $image;
-				echo $image . " is working<br>";
-
-			}
-			else {
-				$images_broken[] = $image;
-				echo $image . " is broken<br>";
-			}
-		};
-		?>
-
-		<!-- Implodes $images_working and $images_broken and adds them to $new_post -->
-		<?php $new_post['images_working'] =  implode(', ', $images_working); ?>
-		<?php $new_post['images_broken'] =  implode(', ', $images_broken); ?>
-
-	</section>
-
-	<hr class="" style="height: 1px; width: 100%; background:red; margin: 2rem 0;"></hr>
-
-	<div style="background-color: hsla(55, 100%, 50%, 0.2)">
-
-		<h2 class="">Outputting final $new_post</h2>
-		<?php echo '<pre>'; print_r($new_post); echo '</pre>'; ?>
-
-	</div>
-
-
-	<div style="background-color: hsla(16, 100%, 50%, 0.2)">
-
-		<h2 class="">Try write page on hard drive</h2>
-
-
-		<?php 
-
-		try {
-
-
-		// Creates new page under incartalarte-export with template 'project'
-			$newPage = page('incartalarte-export')->children()->create($new_post['post_name'], 'project', $new_post);
-			echo "The page " . $new_post['post_name'] . " has been created <br>";
-			echo $newPage->root() . "<br>";
-
-
-		// Save and rename all images listed in $images		
-			$n = 0;
-			foreach ($images_working as $image) {
-
-				$n++;
-				file_put_contents($newPage->root() . DS . $new_post['post_name'] . "-" . $n . ".jpg", fopen($image, 'r'));
-
-			}
-
-
+}
+
+
+$post = $posts->filterBy("ID", "1145");
+foreach ($post as $post) {
+		// This is fetching the attachment
+		// Print detailed content of post
+		// echo '<pre>'; print_r($post); echo '</pre>';
+		// Values I need are following
+		// echo $post->post_title() . '</br>';
+		// echo $post->post_name() . '</br>';
+		// echo $post->guid() . '</br>';
+		// Let's add these values into the new $product;
+	$product["title_caps_with_ebay_number"] = $post->post_title();
+	$product["title_with_ebay_number"] = $post->post_name();
+	$product["remote_image_url"] = $post->guid();
+};
+
+$metas = $postmeta->filterBy("post_id", "1145");
+foreach ($metas as $meta) {
+	// Search again postmeta, this time using the _thumbnail_id
+	// Print detailed content of $meta
+	// foreach ($meta as $key => $value) {
+	// 	echo '<pre>'; echo($key); echo '</pre>';	
+	// 	echo '<pre>'; echo($value); echo '</pre>';	
+	// }
+	// Values I need are following
+	if ($meta->meta_key() == "_wp_attached_file") {
+		// echo $meta->meta_key() . '</br>';
+		// echo $meta->meta_value() . '</br>';
+		// Let's add these values into the new $product;
+		$product["local_image_url"] = $meta->meta_value();
+	}
+}
+
+
+$product["category"] = [];
+
+$categories = $term_relationships->filterBy("object_id", "1144");
+// Let's create a counter and set it to 0
+$i = 0;
+foreach ($categories as $category) {
+
+		// This is fetching the categories number
+		// Print detailed content of post
+		// echo '<pre>'; print_r($term); echo '</pre>';
+		// Values I need are following
+		// echo $category->term_taxonomy_id() . '</br>';
+		// Let's get the name fo the slug for each category
+	$tag = $terms->filterBy("term_id", $category->term_taxonomy_id())->first();
+		// Values I need are following
+		// echo $tag->name() . '</br>';
+		// echo $tag->slug() . '</br>';
+		// Let's add these values into the new $product;
+		// Add 1 to the counter, if counter = 1 just add the category, if counter > 1 append comma and category. Let's also not add the category "simple"
+	if ($tag->name() !== "simple") {
+		$i++;
+		if ($i == 1) {
+			$product["category"] = $tag->name();
 		}
-		catch(Exception $e) {
+		elseif ($i > 1) {
+			$product["category"] .= ", " . $tag->name();
+		}
+	}
 
-			echo $e->getMessage();
+};
 
-			echo $e;
 
-			echo "The page " . $new_post['post_name'] . " has not been created <br><br>";
-  				// optional error message: $e->getMessage();
-		}; ?>
 
-	</div>
-<?php endforeach ?>
+// $tags = $terms->filterBy("term_id", "685");
+// foreach ($tags as $tag) {
+
+// 		// This is fetching the name of each category
+//			// I have incorporated this function above in $categories
+// 		// Print detailed content of post
+// 		// echo '<pre>'; print_r($tag); echo '</pre>';
+// 		// Values I need are following
+// 		// echo $tag->name() . '</br>';
+// 		// echo $tag->slug() . '</br>';
+// };
+
+
+// Search and replace incartalarte.it// into incartalarte.it/
+$product['old_guid'] = str_replace("incartalarte.it//","incartalarte.it/",$product['old_guid']);
+$product['remote_image_url'] = str_replace("incartalarte.it//","incartalarte.it/",$product['remote_image_url']);
+
+
+// Finds any string starting with http, ending with jpg and not including white spaces, and puts it in $images
+$what = '/http.[^\s]*jpg/';
+preg_match_all($what, $product['content'], $images);
+$images = $images[0];
+
+// // Finds images that contain jpegbay into their url, strips the last character before .jpg, and adds f.jpg (for full width).
+foreach ($images as $key => $value) {
+	$pattern = "jpegbay";
+	$check = strpos($value, $pattern);
+	if ($check !== false) {
+		// Trim the $value of the last 7 digits, while saving it back into $images at $key it belongs
+		$images[$key] = substr($value, 0, -6);
+		// Appents _f.jpg
+		$images[$key] .= "_f.jpg";
+	}
+}
+
+// Find JPEGbay code, moves it to $product['jpegbay'], then removes it from $product['post_content']
+// Find any string starting with JPEG and ending with stop, including whitespace and multiline
+$what = '/<!-- JPEG.[\S\s]*stop -->/';
+preg_match_all($what, $product['content'], $jpegbay);
+$product['jpegbay'] = $jpegbay[0][0];
+$product['content'] = str_replace($product['jpegbay'],"",$product['content']);
+
+
+// Remove any <img> tag from post content
+$img_tag = '<img([\w\W]+?)>';
+preg_match_all($img_tag, $product['content'], $img_tag_matches);
+$product['content'] = str_replace($img_tag_matches[0], "", $product['content']);
+
+
+// Prepends http://www.incartalarte.it to $product['local_image_url'] and puts it into $images
+$images[] = "http://www.incartalarte.it/wp-content/uploads/" . $product['local_image_url'];	
+
+
+
+// If an image link is broken, gets moved to $images_broken. If it's working, get's moved to $image_working
+
+$images_working = [];
+$images_broken = [];
+foreach ($images as $image) {
+	if (@getimagesize($image)) {
+		$images_working[] = $image;
+		// echo "<span class=\"successful\">" . $image . " is working<br></span>";
+	}
+	else {
+		$images_broken[] = $image;
+		// echo "<span class=\"error\">" . $image . " is broken<br>";
+	}
+};
+
+// Implodes $images_working and $images_broken and adds them to $product -->
+if (!empty($images_working)) {
+	$product['images_links_working'] =  implode(', ', $images_working);
+	// echo "<span class=\"successful\">" . count($images_working) . " image links working.<br>";
+}
+if (!empty($images_broken)) {
+	$product['images_links_broken'] =  implode(', ', $images_broken);	
+	echo "<span class=\"error\">" . count($images_broken) . " broken image links.<br>";
+}
+
+
+// Sanity check to see if the values have been added to $product;
+// foreach ($product as $key => $value) {
+// 	echo '<pre>'; echo($key); echo '</pre>';	
+// 	echo '<pre>'; echo($value); echo '</pre>';
+// }
+
+
+// Try to save the page onto the hard drive
+try {
+
+	// Creates new page under incartalarte-export with template 'project'
+	$newPage = page('incartalarte-export')->children()->create($product['title'], 'project', $product);
+	echo "<span class=\"successful\">" . $product['title'] . " has been created.<br>";
+	// echo "<span class=\"error">" . $image . " is broken<br>";
+	// echo $newPage->root() . "<br>";
+
+	// Save and rename all images listed in $images
+	$n = 0;
+	foreach ($images_working as $image) {
+		$n++;
+		file_put_contents($newPage->root() . DS . $product['title'] . "-" . $n . ".jpg", fopen($image, 'r'));
+	}
+	echo "<span class=\"successful\">" . $n . " images saved.<br>";
+
+}
+catch(Exception $e) {
+
+	// Throws error messages if something is wrong.
+	echo "<span class=\"error\">" . $product['title'] . " has not been created.<br>";
+	echo $e->getMessage();
+
+};	
+echo "<hr>";
+
+?>
+
 
 <?php snippet('footer') ?>
